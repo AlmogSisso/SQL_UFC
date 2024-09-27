@@ -1,0 +1,3 @@
+﻿FighterID,FirstName,LastName,NickName,DateOfBirth,JoinedToUFC,Nationality,Height(Cm),Reach(Cm),Weight(lbs),NumOfWins,NumOfLosses,NumOfDraws,NumOfNoContests,Knockouts,Submissions
+5001,Beni,Boom,Noom,12/4/1991,2012,USA,180,175,145,9,2,8,5,4,1
+5002,Dani,Din,Dandan,2/29/1988,2016,Australia,168,180,145,8,1,5,4,2,1
